@@ -1,0 +1,55 @@
+<div class="edit-container">
+
+  <h2>{{ isEdit ? 'עריכת מודעה' : 'הוספת מודעה חדשה' }}</h2>
+
+  <form (ngSubmit)="save()" enctype="multipart/form-data">
+
+    <label>כותרת:</label>
+    <input type="text" [(ngModel)]="ad.title" name="title" required />
+
+    <label>תיאור:</label>
+    <textarea [(ngModel)]="ad.description" name="description" required></textarea>
+
+    <label>מחיר:</label>
+    <input type="number" [(ngModel)]="ad.price" name="price" required />
+
+    <label>תמונה:</label>
+    <input type="file" (change)="onFileSelected($event)" />
+
+    <img *ngIf="previewUrl" [src]="previewUrl" class="preview" />
+
+    <div class="location-section">
+      <label>מיקום:</label>
+
+      <button type="button" (click)="openMap()">בחר מקום במפה</button>
+
+      <div *ngIf="ad.latitude && ad.longitude" class="location-values">
+        <span *ngIf="locationName; else coordsFallback">
+          אזור: {{ locationName }}
+        </span>
+      
+        <ng-template #coordsFallback>
+          <span>
+            מיקום שמור ({{ ad.latitude | number:'1.4-4' }}, {{ ad.longitude | number:'1.4-4' }})
+          </span>
+        </ng-template>
+      </div>
+      
+    </div>
+
+    <div *ngIf="showMap" class="map-dialog">
+      <app-map-picker
+        [initialLat]="ad.latitude"
+        [initialLng]="ad.longitude"
+        (locationSelected)="onLocationSelected($event)"
+        (cancel)="onMapCancel()">
+      </app-map-picker>
+    </div>
+
+    <div class="actions">
+      <button type="submit" class="btn save">שמור</button>
+      <button type="button" class="btn cancel" (click)="cancel()">ביטול</button>
+    </div>
+
+  </form>
+</div>

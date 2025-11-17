@@ -1,0 +1,54 @@
+.edit-container {
+    max-width: 500px;
+    margin: 30px auto;
+    padding: 25px;
+    background: #fff;
+    border-radius: 12px;
+    border: 1px solid #ddd;
+    direction: rtl;
+  }
+  
+  label {
+    display: block;
+    margin-top: 15px;
+    font-weight: 600;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 6px;
+    border: 1px solid #bbb;
+  }
+  
+  .actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .btn.save {
+    background: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 6px;
+  }
+  
+  .btn.cancel {
+    background: #9e9e9e;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 6px;
+  }
+  
+.leaflet-container canvas {
+  max-width: none !important;
+}
+
+.leaflet-container img {
+  max-width: none !important;
+  max-height: none !important;
+  width: auto !important;
+  height: auto !important;
+}

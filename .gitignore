@@ -1,0 +1,11 @@
+# Angular
+client/node_modules/
+client/dist/
+
+# VS / C#
+Server/bin/
+Server/obj/
+
+# Common artifacts
+*.log
+*.tmp

@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "qtYn9xyYkiEbRD8O/9bsyB/Lphkc/55bBA9urxIIjrw=",
+  "Source": "Server",
+  "BasePath": "_content/Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Server\\wwwroot",
+      "Source": "Server",
+      "ContentRoot": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

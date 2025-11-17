@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|c:\\users\\user1\\downloads\\test\\test\\server\\server\\repositories\\adssearchextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|solutionrelative:server\\repositories\\adssearchextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|c:\\users\\user1\\downloads\\test\\test\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|c:\\users\\user1\\downloads\\test\\test\\server\\server\\repositories\\adsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|solutionrelative:server\\repositories\\adsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|c:\\users\\user1\\downloads\\test\\test\\server\\server\\models\\adfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|solutionrelative:server\\models\\adfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|c:\\users\\user1\\downloads\\test\\test\\server\\server\\models\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|solutionrelative:server\\models\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|c:\\users\\user1\\downloads\\test\\test\\server\\server\\data\\ads.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|solutionrelative:server\\data\\ads.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|c:\\users\\user1\\downloads\\test\\test\\server\\server\\controllers\\adscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|solutionrelative:server\\controllers\\adscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|c:\\users\\user1\\downloads\\test\\test\\server\\server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|solutionrelative:server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|c:\\users\\user1\\downloads\\test\\test\\server\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6ACDFCA1-96E0-43E3-856E-681DA38F5F24}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 259,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ads.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Data\\ads.json",
+              "RelativeDocumentMoniker": "Server\\Data\\ads.json",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Data\\ads.json",
+              "RelativeToolTip": "Server\\Data\\ads.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T15:28:04.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdsController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Controllers\\AdsController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\AdsController.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Controllers\\AdsController.cs",
+              "RelativeToolTip": "Server\\Controllers\\AdsController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswEAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:36:07.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Models\\Ad.cs",
+              "RelativeDocumentMoniker": "Server\\Models\\Ad.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Models\\Ad.cs",
+              "RelativeToolTip": "Server\\Models\\Ad.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:29:12.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T16:17:14.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T15:49:01.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdsSearchExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Repositories\\AdsSearchExtensions.cs",
+              "RelativeDocumentMoniker": "Server\\Repositories\\AdsSearchExtensions.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Repositories\\AdsSearchExtensions.cs",
+              "RelativeToolTip": "Server\\Repositories\\AdsSearchExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T01:29:31.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Models\\AdFilter.cs",
+              "RelativeDocumentMoniker": "Server\\Models\\AdFilter.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Models\\AdFilter.cs",
+              "RelativeToolTip": "Server\\Models\\AdFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T01:28:29.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Repositories\\AdsRepository.cs",
+              "RelativeDocumentMoniker": "Server\\Repositories\\AdsRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Repositories\\AdsRepository.cs",
+              "RelativeToolTip": "Server\\Repositories\\AdsRepository.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAIwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:32:36.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\Test\\Test\\Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:38:39.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAvwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-16T09:37:54.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

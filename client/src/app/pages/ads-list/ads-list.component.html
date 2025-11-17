@@ -1,0 +1,71 @@
+<h2 class="page-title">מודעות</h2>
+
+<div class="ads-container">
+
+  <div class="search-icon" (click)="openSearchPopup()">
+    🔍  חיפוש
+  </div>
+  <button class="clear-btn" (click)="clearSearch()">נקה חיפוש</button>
+
+  <button routerLink="/ads/edit" class="add-btn">➕ הוסף מודעה חדשה</button>
+  
+  
+<div class="overlay" *ngIf="showSearchPopup" (click)="closeSearchPopup()"></div>
+
+<div class="search-popup" *ngIf="showSearchPopup" (click)="$event.stopPropagation()">
+  <h3>חיפוש מתקדם</h3>
+
+  <label>כותרת:</label>
+  <input [(ngModel)]="filter.TitleContains" />
+
+  <label>תיאור:</label>
+  <input [(ngModel)]="filter.DescriptionContains" />
+
+  <label>שם איש קשר:</label>
+  <input [(ngModel)]="filter.ContactName" />
+
+  <label>קטגוריה:</label>
+  <input [(ngModel)]="filter.Category" />
+
+  <label>מחיר מינימלי:</label>
+  <input type="number" [(ngModel)]="filter.MinPrice" />
+
+  <label>מחיר מקסימלי:</label>
+  <input type="number" [(ngModel)]="filter.MaxPrice" />
+
+  <label>מתאריך:</label>
+  <input type="date" [(ngModel)]="filter.CreatedFrom" />
+
+  <label>עד תאריך:</label>
+  <input type="date" [(ngModel)]="filter.CreatedTo" />
+
+  <div class="btns">
+    <button class="apply" (click)="runAdvancedSearch()">חפש</button>
+    <button class="cancel" (click)="closeSearchPopup()">בטל</button>
+  </div>
+</div>
+
+  <div class="ads-grid">
+    <div class="ad-card" *ngFor="let ad of ads">
+
+      <img *ngIf="ad.imagePath" [src]="ad.imagePath" class="ad-image" />
+
+      <h3 class="ad-title">{{ ad.title }}</h3>
+      <p class="ad-description">{{ ad.description }}</p>
+
+      <div class="price-box">
+        <span>מחיר:</span>
+        <strong>{{ ad.price }} ₪</strong>
+      </div>
+
+      <div class="actions">
+        <button class="btn edit" [routerLink]="['/ads/edit', ad.id]">ערוך</button>
+        <button class="btn delete" (click)="deleteAd(ad.id)">מחק</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+
